@@ -41,3 +41,41 @@ def test_safe_agent_id_and_node_name() -> None:
     assert web_app.safe_agent_id("Breakout Master!") == "breakout_master"
     assert web_app.safe_agent_id("   ") == "custom"
     assert web_app.advisor_node_name("Breakout Master!") == "advisor_breakout_master"
+
+
+def test_agent_ai_brief_is_disabled_outside_streamlit_runtime() -> None:
+    report: dict[str, object] = {}
+    events: list[web_app.AgentEvent] = []
+
+    result = web_app.attach_agent_ai_brief(
+        report,
+        "market",
+        task="检查 R_100",
+        context={"symbol": "R_100"},
+        events=events,
+    )
+
+    assert result["ai_enabled"] is False
+    assert "ai_brief" not in result
+    assert events == []
+
+
+def test_agent_memory_appends_and_limits_context() -> None:
+    state = {"agent_memory": {}}
+
+    for index in range(3):
+        web_app.append_agent_memory_to_state(
+            state,
+            "market",
+            {"time": f"10:0{index}", "summary": f"memory {index}"},
+            limit=2,
+        )
+
+    assert [item["summary"] for item in state["agent_memory"]["market"]] == ["memory 1", "memory 2"]
+
+
+def test_ui_does_not_render_debug_code_blocks() -> None:
+    source = web_app.Path(web_app.__file__).read_text(encoding="utf-8")
+
+    assert "st.code(" not in source
+    assert "st.json(" not in source
