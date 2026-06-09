@@ -1,0 +1,93 @@
+[
+  {
+    "platform": "jd",
+    "product_id": "100000001",
+    "name": "无线蓝牙耳机 入耳式 降噪版",
+    "price": 129.0,
+    "sales": 8500,
+    "shop_name": "京东自营数码旗舰店",
+    "shop_rating": 4.8,
+    "url": "https://item.jd.com/100000001.html"
+  },
+  {
+    "platform": "jd",
+    "product_id": "100000002",
+    "name": "无线蓝牙耳机 半入耳 续航30小时",
+    "price": 89.9,
+    "sales": 23000,
+    "shop_name": "京东自营数码旗舰店",
+    "shop_rating": 4.8,
+    "url": "https://item.jd.com/100000002.html"
+  },
+  {
+    "platform": "taobao",
+    "product_id": "TB0000001",
+    "name": "蓝牙耳机 真无线 运动防水",
+    "price": 59.0,
+    "sales": 56000,
+    "shop_name": "淘宝热销耳机店",
+    "shop_rating": 4.6,
+    "url": "https://item.taobao.com/item.htm?id=TB0000001"
+  },
+  {
+    "platform": "taobao",
+    "product_id": "TB0000002",
+    "name": "蓝牙耳机 降噪 游戏低延迟",
+    "price": 109.0,
+    "sales": 18000,
+    "shop_name": "淘宝数码旗舰店",
+    "shop_rating": 4.7,
+    "url": "https://item.taobao.com/item.htm?id=TB0000002"
+  },
+  {
+    "platform": "pdd",
+    "product_id": "PDD000001",
+    "name": "无线耳机 蓝牙5.3 超长续航",
+    "price": 49.9,
+    "sales": 120000,
+    "shop_name": "拼多多百亿补贴店",
+    "shop_rating": 4.4,
+    "url": "https://mobile.yangkeduo.com/goods.html?goods_id=PDD000001"
+  },
+  {
+    "platform": "pdd",
+    "product_id": "PDD000002",
+    "name": "无线蓝牙耳机 入耳式 低音增强",
+    "price": 39.9,
+    "sales": 90000,
+    "shop_name": "拼多多爆款配件店",
+    "shop_rating": 4.3,
+    "url": "https://mobile.yangkeduo.com/goods.html?goods_id=PDD000002"
+  },
+  {
+    "platform": "jd",
+    "product_id": "100000101",
+    "name": "移动电源 20000mAh 22.5W快充",
+    "price": 119.0,
+    "sales": 41000,
+    "shop_name": "京东自营充电旗舰店",
+    "shop_rating": 4.9,
+    "url": "https://item.jd.com/100000101.html"
+  },
+  {
+    "platform": "taobao",
+    "product_id": "TB0000101",
+    "name": "充电宝 20000毫安 轻薄便携",
+    "price": 79.0,
+    "sales": 76000,
+    "shop_name": "淘宝充电宝专营店",
+    "shop_rating": 4.6,
+    "url": "https://item.taobao.com/item.htm?id=TB0000101"
+  },
+  {
+    "platform": "pdd",
+    "product_id": "PDD000101",
+    "name": "充电宝 10000mAh 双向快充",
+    "price": 39.0,
+    "sales": 140000,
+    "shop_name": "拼多多官方补贴店",
+    "shop_rating": 4.5,
+    "url": "https://mobile.yangkeduo.com/goods.html?goods_id=PDD000101"
+  }
+]
+

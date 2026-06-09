@@ -1,0 +1,6 @@
+﻿platform,keyword,name,price,sales,shop_name,shop_rating,url,product_id,fetched_at,value_score,recommended
+pdd,蓝牙耳机,无线蓝牙耳机 入耳式 低音增强,39.9,90000,拼多多爆款配件店,4.3,https://mobile.yangkeduo.com/goods.html?goods_id=PDD000002,PDD000002,2026-06-09 02:55:46.907222+00:00,0.8,True
+taobao,蓝牙耳机,蓝牙耳机 真无线 运动防水,59.0,56000,淘宝热销耳机店,4.6,https://item.taobao.com/item.htm?id=TB0000001,TB0000001,2026-06-09 02:55:46.907222+00:00,0.6775,True
+jd,蓝牙耳机,无线蓝牙耳机 半入耳 续航30小时,89.9,23000,京东自营数码旗舰店,4.8,https://item.jd.com/100000002.html,100000002,2026-06-09 02:55:46.907222+00:00,0.4597,True
+taobao,蓝牙耳机,蓝牙耳机 降噪 游戏低延迟,109.0,18000,淘宝数码旗舰店,4.7,https://item.taobao.com/item.htm?id=TB0000002,TB0000002,2026-06-09 02:55:46.907222+00:00,0.3018,False
+jd,蓝牙耳机,无线蓝牙耳机 入耳式 降噪版,129.0,8500,京东自营数码旗舰店,4.8,https://item.jd.com/100000001.html,100000001,2026-06-09 02:55:46.907222+00:00,0.2,False

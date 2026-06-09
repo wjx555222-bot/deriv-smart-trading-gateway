@@ -1,0 +1,72 @@
+[
+  {
+    "platform": "pdd",
+    "keyword": "蓝牙耳机",
+    "name": "无线蓝牙耳机 入耳式 低音增强",
+    "price": 39.9,
+    "sales": 90000,
+    "shop_name": "拼多多爆款配件店",
+    "shop_rating": 4.3,
+    "url": "https://mobile.yangkeduo.com/goods.html?goods_id=PDD000002",
+    "product_id": "PDD000002",
+    "fetched_at": "2026-06-09T02:55:46.907222Z",
+    "value_score": 0.8,
+    "recommended": true
+  },
+  {
+    "platform": "taobao",
+    "keyword": "蓝牙耳机",
+    "name": "蓝牙耳机 真无线 运动防水",
+    "price": 59.0,
+    "sales": 56000,
+    "shop_name": "淘宝热销耳机店",
+    "shop_rating": 4.6,
+    "url": "https://item.taobao.com/item.htm?id=TB0000001",
+    "product_id": "TB0000001",
+    "fetched_at": "2026-06-09T02:55:46.907222Z",
+    "value_score": 0.6775,
+    "recommended": true
+  },
+  {
+    "platform": "jd",
+    "keyword": "蓝牙耳机",
+    "name": "无线蓝牙耳机 半入耳 续航30小时",
+    "price": 89.9,
+    "sales": 23000,
+    "shop_name": "京东自营数码旗舰店",
+    "shop_rating": 4.8,
+    "url": "https://item.jd.com/100000002.html",
+    "product_id": "100000002",
+    "fetched_at": "2026-06-09T02:55:46.907222Z",
+    "value_score": 0.4597,
+    "recommended": true
+  },
+  {
+    "platform": "taobao",
+    "keyword": "蓝牙耳机",
+    "name": "蓝牙耳机 降噪 游戏低延迟",
+    "price": 109.0,
+    "sales": 18000,
+    "shop_name": "淘宝数码旗舰店",
+    "shop_rating": 4.7,
+    "url": "https://item.taobao.com/item.htm?id=TB0000002",
+    "product_id": "TB0000002",
+    "fetched_at": "2026-06-09T02:55:46.907222Z",
+    "value_score": 0.3018,
+    "recommended": false
+  },
+  {
+    "platform": "jd",
+    "keyword": "蓝牙耳机",
+    "name": "无线蓝牙耳机 入耳式 降噪版",
+    "price": 129.0,
+    "sales": 8500,
+    "shop_name": "京东自营数码旗舰店",
+    "shop_rating": 4.8,
+    "url": "https://item.jd.com/100000001.html",
+    "product_id": "100000001",
+    "fetched_at": "2026-06-09T02:55:46.907222Z",
+    "value_score": 0.2,
+    "recommended": false
+  }
+]
